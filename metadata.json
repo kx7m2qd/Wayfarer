@@ -1,0 +1,6 @@
+{
+  "name": "Wayfarer",
+  "description": "Immersive AI Travel Planner with interactive 3D globe, real-time collaboration, and AI-powered itineraries.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["AI Itinerary Engine", "Interactive 3D Globe", "Real-time Collaboration"]
+}
